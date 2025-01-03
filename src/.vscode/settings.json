@@ -1,0 +1,16 @@
+{
+    "python.autoComplete.extraPaths": [
+        "/home/qa/Downloads/ros2_ws/install/my_sphere_pkg/lib/python3.10/site-packages",
+        "/home/qa/Downloads/ros2_ws/install/my_environment_pkg/lib/python3.10/site-packages",
+        "/home/qa/Downloads/ros2_ws/install/my_doosan_pkg/lib/python3.10/site-packages",
+        "/opt/ros/humble/lib/python3.10/site-packages",
+        "/opt/ros/humble/local/lib/python3.10/dist-packages"
+    ],
+    "python.analysis.extraPaths": [
+        "/home/qa/Downloads/ros2_ws/install/my_sphere_pkg/lib/python3.10/site-packages",
+        "/home/qa/Downloads/ros2_ws/install/my_environment_pkg/lib/python3.10/site-packages",
+        "/home/qa/Downloads/ros2_ws/install/my_doosan_pkg/lib/python3.10/site-packages",
+        "/opt/ros/humble/lib/python3.10/site-packages",
+        "/opt/ros/humble/local/lib/python3.10/dist-packages"
+    ]
+}
