@@ -1,4 +1,4 @@
-# DDPG_arm_hit_ball
+# DDPG_arm_hit_ball (in progress)
 #colcon build && source install/setup.bash
 #ros2 launch my_environment_pkg my_environment.launch.py
 #mo them tab
